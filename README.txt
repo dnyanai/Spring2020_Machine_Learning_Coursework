@@ -1,1 +1,0 @@
-Spring 2020 ML course effortsa are in this folder
